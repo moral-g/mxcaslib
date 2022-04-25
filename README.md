@@ -1,2 +1,2 @@
 # mxcaslib
-Maxima Computer Algebra System as a C/Cpp Library
+Maxima Computer Algebra System as a C/C++ Library
